@@ -4,6 +4,7 @@ title: Webpack
 
 ```
 npm install moment
+yarn add moment
 ```
 
 ```javascript
